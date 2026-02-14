@@ -5,7 +5,7 @@ loans:
   message: "Welcome to Eazy Bank"
   contactDetails:
     name: "John-Doe - Developer"
-    email: "john@eazy.com"
+    email: "{cipher}a87736fe8e2a4d804f5bfed81fa2ddfd0661134cd9fc07b86bef1ae0579cb55a"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
