@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Prod Cards service"
+  contactDetails:
+    name: "John Doe - Prod"
+    email: "jdoe@cards.com"
+  onCallSupport:
+    - (502) 555-123
+    - (502) 555-234

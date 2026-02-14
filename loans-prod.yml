@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Prod Loans service"
+  contactDetails:
+    name: "John Doe - Prod"
+    email: "jdoe@loans.com"
+  onCallSupport:
+    - (502) 555-123
+    - (502) 555-234

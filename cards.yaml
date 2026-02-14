@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+cards:
+  msessage: "Welcome to Dev Cards service"
+  contactDetails:
+    name: "John Doe - Dev"
+    email: "jdoe@cards.com"
+  onCallSupport:
+    - (502) 555-123
+    - (502) 555-234
+
+

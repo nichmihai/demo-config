@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to QA Cards service"
+  contactDetails:
+    name: "John Doe - QA"
+    email: "jdoe@cards.com"
+  onCallSupport:
+    - (502) 555-123
+    - (502) 555-234
