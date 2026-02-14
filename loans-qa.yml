@@ -5,7 +5,8 @@ loans:
   message: "Welcome to QA Loans service"
   contactDetails:
     name: "John Doe - QA"
-    email: "jdoe@loans.com"
+    email: "{cipher}a87736fe8e2a4d804f5bfed81fa2ddfd0661134cd9fc07b86bef1ae0579cb55a"
   onCallSupport:
     - (502) 555-123
+
     - (502) 555-234
