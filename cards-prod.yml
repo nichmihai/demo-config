@@ -5,8 +5,9 @@ cards:
   message: "Welcome to Prod Cards service"
   contactDetails:
     name: "John Doe - Prod"
-    email: "{cipher}913e2c4b0c461d75965e783cd58343dd966a68be68d0af75067ebad807a0a230"
+    email: "{cipher}2ed4512697122278bd989225cef2f4120630920c8a230569c6187e02d454ac73"
   onCallSupport:
     - (502) 555-123
 
     - (502) 555-234
+
