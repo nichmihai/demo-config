@@ -5,8 +5,9 @@ accounts:
   message: "Welcome to Eazy Bank"
   contactDetails:
     name: "John-Doe - QA Lead"
-    email: "{cipher}913e2c4b0c461d75965e783cd58343dd966a68be68d0af75067ebad807a0a230"
+    email: "{cipher}1cb8e7471eafad88e986a79182790ac418805df49de095301020d8b60dd1f049333b5846473e9120435e082de11e9396"
   onCallSupport:
     - (555) 555-1234
 
     - (555) 523-1345
+
