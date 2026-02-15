@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to QA Cards service"
+  message: "Welcome to QA Cards webhook service"
   contactDetails:
     name: "John Doe - QA"
     email: "{cipher}2ed4512697122278bd989225cef2f4120630920c8a230569c6187e02d454ac73"
@@ -10,3 +10,4 @@ cards:
     - (502) 555-123
 
     - (502) 555-234
+
