@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Prod Cards service"
+  message: "Welcome to Prod Cards webhook service"
   contactDetails:
     name: "John Doe - Prod"
     email: "{cipher}2ed4512697122278bd989225cef2f4120630920c8a230569c6187e02d454ac73"
@@ -10,4 +10,5 @@ cards:
     - (502) 555-123
 
     - (502) 555-234
+
 
